@@ -1,0 +1,43 @@
+.block2 {
+
+    background: white;
+    margin-top: 0 45px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.block2 img{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.block2 p{
+    font-family: sans-serif;
+    font-size: 85%;
+    text-decoration: none;
+    color: black;
+}
+
+.block3 {
+
+    background: white;
+    margin-top: 10%;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.block3 img{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.block3 p{
+    font-family: sans-serif;
+    font-size: 85%;
+    text-decoration: none;
+    color: black;
+}
